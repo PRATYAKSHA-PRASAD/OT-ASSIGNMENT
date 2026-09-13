@@ -17,6 +17,4 @@ Run the programs using Python 3:
 
 ```bash
 python big_m_simplex.py
-python transportation_vam_modi[transportation_vam_modi.py](https://github.com/user-attachments/files/32162123/transportation_vam_modi.py)
-[big_m_simplex.py](https://github.com/user-attachments/files/32162120/big_m_simplex.py)
-.py
+python transportation_vam_modi.py
